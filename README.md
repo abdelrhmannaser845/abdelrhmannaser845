@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelrhman Naser
 
-<!--
-**abdelrhmannaser845/abdelrhmannaser845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer**
 
-Here are some ideas to get you started:
+## Skills
+- **Operating Systems:** Linux
+- **Programming Languages:** C++, Python, JavaScript, HTML, CSS
+- **Databases:** SQL, Database Management
+- **Frameworks & Technologies:** .NET
+- **Networking:** Fundamentals & Configuration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/abdelrhman-naser-4480a8285)
+
+---
+
+*Powered by GitHub Copilot 🤖*
