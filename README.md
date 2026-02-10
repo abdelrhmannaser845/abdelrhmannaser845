@@ -118,6 +118,7 @@
 
 ###
 
-![abdelrhmannaser845's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=transparent)
+![abdelrhmannaser845's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&count_private=true&theme=dark)
+
 
 ###
