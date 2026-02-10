@@ -22,15 +22,17 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdelrhman-naser-4480a8285" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="abdelrhmannaser06@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="abdelrhmannaser06@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  </a>
+  div align="center">
+<a href="www.linkedin.com/in/abdelrhman-naser-4480a8285">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:abdelrhmannaser06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/abdelrhmannaser845">
+<img src="https://img.shields.io/badge/GitHub-100?style=for-the-badge&logo=github"/>
+</a>
+</div>
 </div>
 ###
 
