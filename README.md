@@ -114,7 +114,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/snake.svg" alt="Snake animation" />
+![GitHub Contributions](https://github.com/<abdelrhmannaser845>.png?tab=overview&from=2026-01-01&to=2026-12-31)
+
 
 ###
 <div align="center">
