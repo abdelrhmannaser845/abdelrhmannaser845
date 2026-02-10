@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Abdelrhman+Abdelnaser;I'm+software+engineer+%7C+devolper;I+aspire+to+be+malware+analyst" alt="Typing SVG" /></a>
 </div>
 
 ###
