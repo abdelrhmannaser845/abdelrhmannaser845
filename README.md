@@ -2,15 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Abdelrhman+Abdelnaser;I'm+software+engineer+%7C+devolper;I+aspire+to+be+malware+analyst" alt="Typing SVG" /></a>
 </div>
 
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Abdelrhman Abdelnaser , from Egypt</p>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&right_color=coral"  />
