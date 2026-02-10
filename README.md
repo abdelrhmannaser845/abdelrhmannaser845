@@ -118,7 +118,7 @@
 
 ###
 
-![abdelrhmannaser845's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&count_private=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ###
