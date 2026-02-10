@@ -114,7 +114,12 @@
 
 ###
 
-![GitHub Contributions](https://github.com/<abdelrhmannaser845>.png?tab=overview&from=2026-01-01&to=2026-12-31)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contributions Snake Animation" src="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 ###
