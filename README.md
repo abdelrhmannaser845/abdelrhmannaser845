@@ -22,8 +22,7 @@
 ###
 
 <div align="center">
-  div align="center">
-<a href="www.linkedin.com/in/abdelrhman-naser-4480a8285">
+<a href="https://www.linkedin.com/in/abdelrhman-naser-4480a8285">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:abdelrhmannaser06@gmail.com">
