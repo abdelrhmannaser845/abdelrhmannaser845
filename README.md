@@ -133,15 +133,18 @@
 
 ---
 
+## <h3 align="left">📊 GitHub Stats:</h3>
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
----
 
-## <h3 align="left">📊 GitHub Stats:</h3>
+<!--
+
+
 
 <div align="center">
   <a href="https://github.com/abdelrhmannaser845/github-readme-stats">
@@ -151,5 +154,5 @@
         <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=abdelrhmannaser845&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
 </div>
-  
+  -->
 ###
