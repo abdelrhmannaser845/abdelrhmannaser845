@@ -145,11 +145,11 @@
 
 <div align="center">
   <a href="https://github.com/abdelrhmannaser845/github-readme-stats">
-    <img src="https://github-readme-stats-carol42.vercel.app/api?username=abdelrhmannaser845&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" height="180" />
-  </a>
-  <a href="https://github.com/abdelrhmannaser845/github-readme-stats">
-    <img src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=abdelrhmannaser845&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10&card_width=400" alt="most used languages" height="180" />
-  </a>
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=abdelrhmannaser845&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    <a href="https://github.com/abdelrhmannaser845/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=abdelrhmannaser845&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
 </div>
   
 ###
