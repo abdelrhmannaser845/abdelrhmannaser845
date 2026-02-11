@@ -1,5 +1,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  
 </div>
 
 <div align="center">
@@ -9,6 +10,9 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&right_color=coral"  />
+</div>
+<div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=abdelrhmannaser845&cc=22272e&tc=37BCF6&ic=fff&bc=37BCF6" alt="Rohit GitHub Stats">
 </div>
 
 ###
@@ -35,6 +39,8 @@
 </div>
 
 ###
+
+---
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -116,12 +122,30 @@
 
 ###
 
+---
+
+## <h3 align="center">🐍 Contribution Graph Animation</h3>
+
 ![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
 ###
+
+---
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
+---
 
+## <h3 align="left">📊 GitHub Stats:</h3>
+
+<a href="https://github.com/abdelrhmannaser845/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=abdelrhmannaser845&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    <a href="https://github.com/abdelrhmannaser845/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=abdelrhmannaser845&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+
+###
