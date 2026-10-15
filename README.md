@@ -19,6 +19,7 @@ Currently learning <b>Machine Learning</b> and working toward becoming a <b>malw
 <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-21262d?style=flat-square&logo=wireshark&logoColor=white" /><img src="https://img.shields.io/badge/Kali%20Linux-21262d?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 <a href="https://www.linkedin.com/in/abdelrhman-naser-4480a8285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,7 +27,7 @@ Currently learning <b>Machine Learning</b> and working toward becoming a <b>malw
 
 </td>
 <td width="50%" valign="top">
-
+  
 ```js
 const abdelrhman = {
   role: 'Software Engineer',
@@ -44,6 +45,7 @@ const abdelrhman = {
 
 // Always learning. Always building.
 ```
+
 
 </td>
 </tr>
@@ -158,6 +160,18 @@ const abdelrhman = {
 </td>
 </tr>
 <tr>
+<td><b>Cybersecurity</b></td>
+<td>
+<img src="https://img.shields.io/badge/Kali%20Linux-21262d?style=flat-square&logo=kalilinux&logoColor=white" /><img src="https://img.shields.io/badge/Wireshark-21262d?style=flat-square&logo=wireshark&logoColor=white" /><img src="https://img.shields.io/badge/Burp%20Suite-21262d?style=flat-square&logo=burpsuite&logoColor=white" /><img src="https://img.shields.io/badge/Metasploit-21262d?style=flat-square&logo=metasploit&logoColor=white" /><img src="https://img.shields.io/badge/Nmap-21262d?style=flat-square" /><img src="https://img.shields.io/badge/OWASP-21262d?style=flat-square&logo=owasp&logoColor=white" /><img src="https://img.shields.io/badge/Splunk-21262d?style=flat-square&logo=splunk&logoColor=white" /><img src="https://img.shields.io/badge/Hashcat-21262d?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>Malware Analysis</b></td>
+<td>
+<img src="https://img.shields.io/badge/Ghidra-21262d?style=flat-square" /><img src="https://img.shields.io/badge/x64dbg-21262d?style=flat-square" /><img src="https://img.shields.io/badge/IDA%20Pro-21262d?style=flat-square" /><img src="https://img.shields.io/badge/YARA-21262d?style=flat-square" /><img src="https://img.shields.io/badge/Volatility-21262d?style=flat-square" /><img src="https://img.shields.io/badge/VirusTotal-21262d?style=flat-square&logo=virustotal&logoColor=white" /><img src="https://img.shields.io/badge/ANY.RUN-21262d?style=flat-square" /><img src="https://img.shields.io/badge/PE--bear-21262d?style=flat-square" /><img src="https://img.shields.io/badge/Process%20Monitor-21262d?style=flat-square" />
+</td>
+</tr>
+<tr>
 <td><b>Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white" />
@@ -173,19 +187,28 @@ const abdelrhman = {
 
 <table>
 <tr>
-<td width="60%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&count_private=true" />
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&theme=github-dark-blue&background=0d1117&border=30363d" /></a>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&count_private=true" width="100%" />
 </td>
-<td width="40%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=donut&theme=github_dark&bg_color=0d1117&border_color=30363d&langs_count=6" />
+<td width="50%" align="center" valign="top">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&theme=github-dark-blue&background=0d1117&border=30363d" width="100%" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=compact&card_width=830&theme=github_dark&bg_color=0d1117&border_color=30363d&langs_count=8" width="100%" alt="Top languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmannaser845&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-snake-dark.svg" alt="Contribution snake" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=twinkling" alt="footer" />
