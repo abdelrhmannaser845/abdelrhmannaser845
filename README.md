@@ -200,9 +200,10 @@ const abdelrhman = {
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmannaser845&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
-</td>
+## <h3 align="center">🐍 Contribution Graph Animation</h3>
+
+![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
+###
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
