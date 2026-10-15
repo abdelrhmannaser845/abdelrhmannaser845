@@ -27,7 +27,7 @@ Currently learning <b>Machine Learning</b> and working toward becoming a <b>malw
 
 </td>
 <td width="50%" valign="top">
-  
+
 ```js
 const abdelrhman = {
   role: 'Software Engineer',
@@ -45,7 +45,6 @@ const abdelrhman = {
 
 // Always learning. Always building.
 ```
-
 
 </td>
 </tr>
@@ -199,17 +198,12 @@ const abdelrhman = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=compact&card_width=830&theme=github_dark&bg_color=0d1117&border_color=30363d&langs_count=8" width="100%" alt="Top languages" />
 </td>
 </tr>
-<tr>
+</table>
+
 ## <h3 align="center">🐍 Contribution Graph Animation</h3>
 
 ![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
+
 ###
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/abdelrhmannaser845/abdelrhmannaser845/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
-</td>
-</tr>
-</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt&animation=twinkling" alt="footer" />
