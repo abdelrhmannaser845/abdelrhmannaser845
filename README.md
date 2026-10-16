@@ -56,24 +56,24 @@ const abdelrhman = {
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Prosze">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmannaser845&repo=Prosze&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a" />
+<img src="assets/card-prosze.svg" width="100%" alt="Prosze" />
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/CritiQ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmannaser845&repo=CritiQ&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a" />
+<img src="assets/card-critiq.svg" width="100%" alt="CritiQ" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Gestura">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmannaser845&repo=Gestura&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a" />
+<img src="assets/card-gestura.svg" width="100%" alt="Gestura" />
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Airport_datarbase_MMAA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmannaser845&repo=Airport_datarbase_MMAA&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a" />
+<img src="assets/card-airport.svg" width="100%" alt="Airport_datarbase_MMAA" />
 </a>
 </td>
 </tr>
@@ -105,7 +105,7 @@ const abdelrhman = {
 <img src="https://img.shields.io/badge/Python-1c3d8f?style=flat-square&logo=python&logoColor=f5d33d" />
 <img src="https://img.shields.io/badge/C-1c3d8f?style=flat-square&logo=c&logoColor=f5d33d" />
 <img src="https://img.shields.io/badge/C++-1c3d8f?style=flat-square&logo=cplusplus&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/C#-1c3d8f?style=flat-square&logo=csharp&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/C%23-1c3d8f?style=flat-square&logo=csharp&logoColor=f5d33d" />
 <img src="https://img.shields.io/badge/Java-1c3d8f?style=flat-square&logo=openjdk&logoColor=f5d33d" />
 <img src="https://img.shields.io/badge/Go-1c3d8f?style=flat-square&logo=go&logoColor=f5d33d" />
 <img src="https://img.shields.io/badge/JavaScript-1c3d8f?style=flat-square&logo=javascript&logoColor=f5d33d" />
