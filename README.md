@@ -1,79 +1,80 @@
-<!-- ===================== STARRY NIGHT BANNER ===================== -->
-<img width="100%" src="assets/starry-banner.svg" alt="Starry night banner" />
+<!-- ===================== BANNER ===================== -->
+<img width="100%" src="assets/soc-banner.svg" alt="Abdelrhman Abdelnaser - SOC Engineer" />
 
 <!-- ===================== HERO ===================== -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h1>🌌 Hi, I'm Abdelrhman</h1>
+<h1>🛡️ SOC Engineer</h1>
 
-<p>Software engineer who loves turning ideas into real-world tools.<br/>
-Currently learning <b>Machine Learning</b> and working toward becoming a <b>malware analyst</b>.</p>
+<p>I detect, investigate, and respond to threats. I turn noisy logs into clear signals, write detections, and build tools that make the blue team faster.<br/><br/>
+Currently learning <b>Machine Learning</b> and going deeper into <b>malware analysis</b>.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Python-1c3d8f?style=flat-square&logo=python&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/C++-1c3d8f?style=flat-square&logo=cplusplus&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/JavaScript-1c3d8f?style=flat-square&logo=javascript&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/TypeScript-1c3d8f?style=flat-square&logo=typescript&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Flask-1c3d8f?style=flat-square&logo=flask&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/OpenCV-1c3d8f?style=flat-square&logo=opencv&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/TensorFlow-1c3d8f?style=flat-square&logo=tensorflow&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Docker-1c3d8f?style=flat-square&logo=docker&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Linux-1c3d8f?style=flat-square&logo=linux&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Git-1c3d8f?style=flat-square&logo=git&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Wireshark-1c3d8f?style=flat-square&logo=wireshark&logoColor=f5d33d" /> <img src="https://img.shields.io/badge/Kali%20Linux-1c3d8f?style=flat-square&logo=kalilinux&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/Splunk-161b22?style=flat-square&logo=splunk&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/Elastic-161b22?style=flat-square&logo=elastic&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/YARA-161b22?style=flat-square" /> <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/PowerShell-161b22?style=flat-square&logo=powershell&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=39d0ff" /> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=39d0ff" />
 </p>
 
-<a href="https://www.linkedin.com/in/abdelrhman-naser-4480a8285"><img src="https://img.shields.io/badge/LinkedIn-1c3d8f?style=for-the-badge&logo=linkedin&logoColor=f5d33d" /></a>
-<a href="mailto:abdelrhmannaser06@gmail.com"><img src="https://img.shields.io/badge/Gmail-f2a33a?style=for-the-badge&logo=gmail&logoColor=0b1e4a" /></a>
+<a href="https://www.linkedin.com/in/abdelrhman-naser-4480a8285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdelrhmannaser06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/abdelrhmannaser845"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-```js
-const abdelrhman = {
-  role: 'Software Engineer',
-  code: ['Python', 'C++', 'JavaScript', 'TypeScript'],
-  askMeAbout: ['ML', 'Privacy', 'Computer Vision'],
-  technologies: {
-    ai:      ['TensorFlow', 'PyTorch', 'OpenCV'],
-    web:     ['Flask', 'Django', 'HTML', 'CSS'],
-    tools:   ['Docker', 'Git', 'Linux'],
-  },
-  currentlyLearning: 'Machine Learning',
-  goal: 'Malware Analyst',
-  funFact: 'Creating bugs since 2020 🐛',
-};
-
-// Always learning. Always building.
-```
+<img src="assets/soc-terminal.svg" width="100%" alt="terminal" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5D33D&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Developer;Learning+ML+%F0%9F%A4%96;Aspiring+Malware+Analyst+%F0%9F%94%90" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=39D0FF&center=true&vCenter=true&width=620&lines=Detect.+Investigate.+Respond.;Turning+logs+into+signals+%F0%9F%94%8E;Learning+ML+%26+malware+analysis+%F0%9F%A7%AC" alt="Typing SVG" /></a>
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&left_color=1c3d8f&right_color=f2a33a" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&left_color=161b22&right_color=39d0ff" alt="Visitors"/>
 </div>
 
-<!-- ===================== PINNED ===================== -->
-## 🌟 Pinned
+<!-- ===================== FOCUS ===================== -->
+## 🎯 Focus Areas
+
+<table>
+<tr>
+<td width="33%" valign="top"><b>🔎 Detection Engineering</b><br/><sub>SIEM use cases, Sigma &amp; YARA rules, tuning false positives</sub></td>
+<td width="33%" valign="top"><b>🚨 Incident Response</b><br/><sub>Triage, containment, forensics, and clear reporting</sub></td>
+<td width="33%" valign="top"><b>🧭 Threat Hunting</b><br/><sub>Hypothesis-driven hunts mapped to MITRE ATT&amp;CK</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>🧬 Malware Analysis</b><br/><sub>Static and dynamic analysis (in progress)</sub></td>
+<td valign="top"><b>📊 Log &amp; Network Analysis</b><br/><sub>Endpoint, network, and cloud telemetry</sub></td>
+<td valign="top"><b>⚙️ Security Automation</b><br/><sub>Python / PowerShell playbooks and tooling</sub></td>
+</tr>
+</table>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🗂️ Case Files
 
 <table>
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Prosze">
-<img src="assets/card-prosze.svg" width="100%" alt="Prosze" />
+<img src="assets/soc-card-prosze.svg" width="100%" alt="Prosze" />
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/CritiQ">
-<img src="assets/card-critiq.svg" width="100%" alt="CritiQ" />
+<img src="assets/soc-card-critiq.svg" width="100%" alt="CritiQ" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Gestura">
-<img src="assets/card-gestura.svg" width="100%" alt="Gestura" />
+<img src="assets/soc-card-gestura.svg" width="100%" alt="Gestura" />
 </a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/abdelrhmannaser845/Airport_datarbase_MMAA">
-<img src="assets/card-airport.svg" width="100%" alt="Airport_datarbase_MMAA" />
+<img src="assets/soc-card-airport.svg" width="100%" alt="Airport_datarbase_MMAA" />
 </a>
 </td>
 </tr>
@@ -91,119 +92,125 @@ const abdelrhman = {
 
 </details>
 
-<!-- ===================== TOOLS TABLE ===================== -->
-## 🎨 Tools & Technologies
+<!-- ===================== TOOLKIT ===================== -->
+## 🧰 Toolkit
 
 <table>
 <tr>
-<th width="18%" align="left">Category</th>
-<th align="left">Stack</th>
+<th width="20%" align="left">Domain</th>
+<th align="left">Tools</th>
 </tr>
 <tr>
-<td><b>Languages</b></td>
+<td><b>SIEM & Logging</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-1c3d8f?style=flat-square&logo=python&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/C-1c3d8f?style=flat-square&logo=c&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/C++-1c3d8f?style=flat-square&logo=cplusplus&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/C%23-1c3d8f?style=flat-square&logo=csharp&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Java-1c3d8f?style=flat-square&logo=openjdk&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Go-1c3d8f?style=flat-square&logo=go&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/JavaScript-1c3d8f?style=flat-square&logo=javascript&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/TypeScript-1c3d8f?style=flat-square&logo=typescript&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Bash-1c3d8f?style=flat-square&logo=gnubash&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/Splunk-161b22?style=flat-square&logo=splunk&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Elastic%20Stack-161b22?style=flat-square&logo=elastic&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Wazuh-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-161b22?style=flat-square&logo=microsoftazure&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Graylog-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Sigma-161b22?style=flat-square" />
 </td>
 </tr>
 <tr>
-<td><b>AI / Data</b></td>
+<td><b>Endpoint / EDR</b></td>
 <td>
-<img src="https://img.shields.io/badge/TensorFlow-1c3d8f?style=flat-square&logo=tensorflow&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/PyTorch-1c3d8f?style=flat-square&logo=pytorch&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/OpenCV-1c3d8f?style=flat-square&logo=opencv&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/NumPy-1c3d8f?style=flat-square&logo=numpy&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Pandas-1c3d8f?style=flat-square&logo=pandas&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Jupyter-1c3d8f?style=flat-square&logo=jupyter&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Kaggle-1c3d8f?style=flat-square&logo=kaggle&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Anaconda-1c3d8f?style=flat-square&logo=anaconda&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/CrowdStrike-161b22?style=flat-square&logo=crowdstrike&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Microsoft%20Defender-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Sysmon-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Velociraptor-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/OSQuery-161b22?style=flat-square" />
 </td>
 </tr>
 <tr>
-<td><b>Web</b></td>
+<td><b>Network & NDR</b></td>
 <td>
-<img src="https://img.shields.io/badge/HTML5-1c3d8f?style=flat-square&logo=html5&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/CSS3-1c3d8f?style=flat-square&logo=css3&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Sass-1c3d8f?style=flat-square&logo=sass&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Bootstrap-1c3d8f?style=flat-square&logo=bootstrap&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Flask-1c3d8f?style=flat-square&logo=flask&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Django-1c3d8f?style=flat-square&logo=django&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/.NET-1c3d8f?style=flat-square&logo=dotnet&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Qt-1c3d8f?style=flat-square&logo=qt&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Zeek-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Suricata-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Snort-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/pfSense-161b22?style=flat-square&logo=pfsense&logoColor=39d0ff" />
 </td>
 </tr>
 <tr>
-<td><b>Data & DevOps</b></td>
+<td><b>Threat Intel & IR</b></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-1c3d8f?style=flat-square&logo=postgresql&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/MySQL-1c3d8f?style=flat-square&logo=mysql&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Docker-1c3d8f?style=flat-square&logo=docker&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Kubernetes-1c3d8f?style=flat-square&logo=kubernetes&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Azure-1c3d8f?style=flat-square&logo=microsoftazure&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Linux-1c3d8f?style=flat-square&logo=linux&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Red%20Hat-1c3d8f?style=flat-square&logo=redhat&logoColor=f5d33d" />
-</td>
-</tr>
-<tr>
-<td><b>Cybersecurity</b></td>
-<td>
-<img src="https://img.shields.io/badge/Kali%20Linux-1c3d8f?style=flat-square&logo=kalilinux&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Wireshark-1c3d8f?style=flat-square&logo=wireshark&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Burp%20Suite-1c3d8f?style=flat-square&logo=burpsuite&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Metasploit-1c3d8f?style=flat-square&logo=metasploit&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Nmap-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/OWASP-1c3d8f?style=flat-square&logo=owasp&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Splunk-1c3d8f?style=flat-square&logo=splunk&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Hashcat-1c3d8f?style=flat-square" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/MISP-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/TheHive-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Cortex-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCTI-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/VirusTotal-161b22?style=flat-square&logo=virustotal&logoColor=39d0ff" />
 </td>
 </tr>
 <tr>
 <td><b>Malware Analysis</b></td>
 <td>
-<img src="https://img.shields.io/badge/Ghidra-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/x64dbg-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/IDA%20Pro-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/YARA-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/Volatility-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/VirusTotal-1c3d8f?style=flat-square&logo=virustotal&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/ANY.RUN-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/PE--bear-1c3d8f?style=flat-square" />
-<img src="https://img.shields.io/badge/Process%20Monitor-1c3d8f?style=flat-square" />
+<img src="https://img.shields.io/badge/Ghidra-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/x64dbg-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/IDA%20Pro-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/YARA-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Volatility-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/ANY.RUN-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/CAPE%20Sandbox-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/PE--bear-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Process%20Monitor-161b22?style=flat-square" />
 </td>
 </tr>
 <tr>
-<td><b>Tools</b></td>
+<td><b>Offensive / Testing</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-1c3d8f?style=flat-square&logo=git&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/CMake-1c3d8f?style=flat-square&logo=cmake&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Selenium-1c3d8f?style=flat-square&logo=selenium&logoColor=f5d33d" />
-<img src="https://img.shields.io/badge/Blender-1c3d8f?style=flat-square&logo=blender&logoColor=f5d33d" />
+<img src="https://img.shields.io/badge/Kali%20Linux-161b22?style=flat-square&logo=kalilinux&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=flat-square&logo=burpsuite&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Nmap-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/OWASP-161b22?style=flat-square&logo=owasp&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Hashcat-161b22?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>Languages & Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/PowerShell-161b22?style=flat-square&logo=powershell&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=39d0ff" />
+</td>
+</tr>
+<tr>
+<td><b>Dev, AI & Platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=39d0ff" />
+<img src="https://img.shields.io/badge/Azure-161b22?style=flat-square&logo=microsoftazure&logoColor=39d0ff" />
 </td>
 </tr>
 </table>
 
-<!-- ===================== STATS ===================== -->
-## 🌙 Activity
+<!-- ===================== ACTIVITY ===================== -->
+## 📡 Activity
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=39d0ff&text_color=c9d1d9&icon_color=3fb950&count_private=true" width="100%" />
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&background=0b1e4a&border=f5d33d&ring=f5d33d&fire=f2a33a&currStreakNum=f4e8b0&sideNums=f4e8b0&currStreakLabel=f5d33d&sideLabels=f5d33d&dates=a8d0f0" width="100%" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&background=0d1117&border=30363d&ring=39d0ff&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d0ff&sideLabels=39d0ff&dates=8b949e" width="100%" /></a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=compact&card_width=830&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a&langs_count=8" width="100%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=compact&card_width=830&theme=dark&bg_color=0d1117&border_color=30363d&title_color=39d0ff&text_color=c9d1d9&icon_color=3fb950&langs_count=8" width="100%" alt="Top languages" />
 </td>
 </tr>
 </table>
@@ -212,4 +219,4 @@ const abdelrhman = {
 
 ![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:f5d33d,40:2a52be,100:0a1a44&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:0d1117,60:0b3a4a,100:39d0ff&animation=twinkling" alt="footer" />
