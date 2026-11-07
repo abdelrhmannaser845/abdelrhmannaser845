@@ -190,23 +190,6 @@ const abdelrhman = {
 </table>
 
 <!-- ===================== STATS ===================== -->
-## 🌙 Activity
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmannaser845&show_icons=true&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a&count_private=true" width="100%" />
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&background=0b1e4a&border=f5d33d&ring=f5d33d&fire=f2a33a&currStreakNum=f4e8b0&sideNums=f4e8b0&currStreakLabel=f5d33d&sideLabels=f5d33d&dates=a8d0f0" width="100%" /></a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmannaser845&layout=compact&card_width=830&theme=dark&bg_color=0b1e4a&border_color=f5d33d&title_color=f5d33d&text_color=f4e8b0&icon_color=f2a33a&langs_count=8" width="100%" alt="Top languages" />
-</td>
-</tr>
-</table>
 
 <h3 align="center">🐍 Contribution Graph Animation</h3>
 
