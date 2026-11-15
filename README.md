@@ -190,19 +190,9 @@ const abdelrhman = {
 </table>
 
 <!-- ===================== STATS ===================== -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdelrhmannaser845&theme=onedark-duo" alt="GitHub Streak" height="170" />
-  </a>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=abdelrhmannaser845&layout=donut&langs_count=4&theme=cobalt2" alt="Top Languages" height="170" />
-</div>
 
 <h3 align="center">🐍 Contribution Graph Animation</h3>
 
-<div align="center">
-  <img src="https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg?raw=true" alt="snake animation" />
-</div>
+![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:f5d33d,40:2a52be,100:0a1a44&animation=twinkling" alt="footer" />
