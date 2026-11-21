@@ -41,6 +41,27 @@ const abdelrhman = {
 
 </td>
 </tr>
+
+</table>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+## What am I into? 💎
+
+Beyond development, I'm deeply **interested in cybersecurity, reverse engineering, malware analysis and vulnerability research.** I enjoy understanding how systems work, identifying weaknesses and developing tools to investigate and address security issues. I'm comfortable in both **Linux** and **Windows** environments.
+
+In 2025, my **RAT-Vulnerabilities** research was used to take down a card skimming operation targeting hotel management systems ([write-up](YOUR_WRITEUP_LINK)).
+
+I also found and reported an **account takeover vulnerability in Whitepages**, a major people-search platform. It has since been patched, and I published a [write-up](YOUR_WRITEUP_LINK) and a [proof of concept](YOUR_POC_LINK) for research purposes.
+
+[Card Skimmer Takedown write-up](YOUR_WRITEUP_LINK) • [Whitepages write-up](YOUR_WRITEUP_LINK) • [Whitepages PoC](YOUR_POC_LINK)
+
+  </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="assets/Van_Gogh_s_Fiery_Paper_Reaction.gif" alt="Van Gogh" width="320">
+    </td>
+  </tr>
 </table>
 
 <div align="center">
