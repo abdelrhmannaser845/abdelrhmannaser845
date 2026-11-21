@@ -69,6 +69,13 @@ Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and S
     </td>
   </tr>
 </table>
+<br>
+> [!NOTE]
+> I've always been <b>curious</b> about how things work <b>under the hood</b>. That curiosity is
+> what pulled me into <b>cybersecurity</b>. Every system has a <b>weak spot</b>, and finding it
+> is like <b>solving a puzzle</b>. I spend a lot of my <b>free time</b> digging into software,
+> testing ideas and <b>building small tools</b> along the way. Some of them are <b>useful</b>,
+> some are just <b>for fun</b>, but I <b>learn something new</b> from every one of them.
 
 <!-- ===================== PINNED ===================== -->
 ## 🌟 Pinned
