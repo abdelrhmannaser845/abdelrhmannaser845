@@ -43,6 +43,12 @@ const abdelrhman = {
 </tr>
 
 </table>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5D33D&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Developer;Learning+ML+%F0%9F%A4%96;Aspiring+Malware+Analyst+%F0%9F%94%90" alt="Typing SVG" /></a>
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&left_color=1c3d8f&right_color=f2a33a" alt="Visitors"/>
+</div>
 <table>
   <tr>
     <td width="62%" valign="top">
@@ -63,12 +69,6 @@ Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and S
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5D33D&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Developer;Learning+ML+%F0%9F%A4%96;Aspiring+Malware+Analyst+%F0%9F%94%90" alt="Typing SVG" /></a>
-  <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmannaser845.abdelrhmannaser845&left_color=1c3d8f&right_color=f2a33a" alt="Visitors"/>
-</div>
 
 <!-- ===================== PINNED ===================== -->
 ## 🌟 Pinned
