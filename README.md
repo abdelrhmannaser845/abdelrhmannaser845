@@ -53,7 +53,7 @@ const abdelrhman = {
   <tr>
     <td width="62%" valign="top">
 
-## What am I into? 💎
+## What am I into? 
 
 I'm a **SOC engineer** passionate about **threat detection, incident response and blue team operations**. I enjoy digging through logs, hunting for suspicious behavior and turning what I find into detections that make an environment harder to attack. I'm comfortable in both **Linux** and **Windows** environments.
 
