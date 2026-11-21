@@ -69,7 +69,7 @@ Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and S
     </td>
   </tr>
 </table>
-<br>
+<br /><br />
 > [!NOTE]
 > I've always been <b>curious</b> about how things work <b>under the hood</b>. That curiosity is
 > what pulled me into <b>cybersecurity</b>. Every system has a <b>weak spot</b>, and finding it
