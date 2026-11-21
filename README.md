@@ -49,13 +49,13 @@ const abdelrhman = {
 
 ## What am I into? 💎
 
-Beyond development, I'm deeply **interested in cybersecurity, reverse engineering, malware analysis and vulnerability research.** I enjoy understanding how systems work, identifying weaknesses and developing tools to investigate and address security issues. I'm comfortable in both **Linux** and **Windows** environments.
+I'm a **SOC engineer** passionate about **threat detection, incident response and blue team operations**. I enjoy digging through logs, hunting for suspicious behavior and turning what I find into detections that make an environment harder to attack. I'm comfortable in both **Linux** and **Windows** environments.
 
-In 2025, my **RAT-Vulnerabilities** research was used to take down a card skimming operation targeting hotel management systems ([write-up](YOUR_WRITEUP_LINK)).
+My day-to-day work includes **monitoring and triaging alerts, investigating incidents, tuning detection rules and reducing false positives**. I'm also interested in **threat hunting, malware analysis and automating repetitive SOC tasks** so analysts can focus on what matters.
 
-I also found and reported an **account takeover vulnerability in Whitepages**, a major people-search platform. It has since been patched, and I published a [write-up](YOUR_WRITEUP_LINK) and a [proof of concept](YOUR_POC_LINK) for research purposes.
+Tools I work with: **Splunk, Microsoft Sentinel, Wazuh, Elastic Stack, CrowdStrike, Wireshark and Sysmon**.
 
-[Card Skimmer Takedown write-up](YOUR_WRITEUP_LINK) • [Whitepages write-up](YOUR_WRITEUP_LINK) • [Whitepages PoC](YOUR_POC_LINK)
+Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and SOAR automation**.
 
   </td>
     <td width="38%" align="center" valign="middle">
