@@ -65,7 +65,7 @@ Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and S
 
   </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/Van_Gogh_s_Fiery_Paper_Reaction.gif" alt="Van Gogh" width="320">
+      <img src="assets/Van Gogh’s Mysterious Letter Animation.gif" alt="Van Gogh" width="320">
     </td>
   </tr>
 </table>
