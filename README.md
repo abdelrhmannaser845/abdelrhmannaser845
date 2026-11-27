@@ -227,4 +227,3 @@ Right now I'm learning **detection engineering, DFIR, MITRE ATT&CK mapping and S
 ![snake gif](https://github.com/abdelrhmannaser845/abdelrhmannaser845/blob/output/github-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:f5d33d,40:2a52be,100:0a1a44&animation=twinkling" alt="footer" />
-
